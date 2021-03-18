@@ -1,0 +1,1 @@
+https://www.scrum.nl/scrum-begrippen-agile-scrum/
