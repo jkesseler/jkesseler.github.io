@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9bcfc5f0.chunk.css",
+    "main.js": "./static/js/main.17eee270.chunk.js",
+    "main.js.map": "./static/js/main.17eee270.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.521de743.js",
+    "runtime-main.js.map": "./static/js/runtime-main.521de743.js.map",
+    "static/js/2.ade2dd71.chunk.js": "./static/js/2.ade2dd71.chunk.js",
+    "static/js/2.ade2dd71.chunk.js.map": "./static/js/2.ade2dd71.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.9bcfc5f0.chunk.css.map": "./static/css/main.9bcfc5f0.chunk.css.map",
+    "static/js/2.ade2dd71.chunk.js.LICENSE.txt": "./static/js/2.ade2dd71.chunk.js.LICENSE.txt",
+    "static/media/backlog-refinement.149e7fcb.png": "./static/media/backlog-refinement.149e7fcb.png",
+    "static/media/cl-logo.573b8e5b.svg": "./static/media/cl-logo.573b8e5b.svg",
+    "static/media/daily-scrum.d5f6214c.png": "./static/media/daily-scrum.d5f6214c.png",
+    "static/media/developers.2a6b8743.png": "./static/media/developers.2a6b8743.png",
+    "static/media/increment.bf9a01a2.png": "./static/media/increment.bf9a01a2.png",
+    "static/media/iteraties.87449ef0.png": "./static/media/iteraties.87449ef0.png",
+    "static/media/pillars-of-scrum.7c42d63f.png": "./static/media/pillars-of-scrum.7c42d63f.png",
+    "static/media/product-backlog-evolution.bed60daa.png": "./static/media/product-backlog-evolution.bed60daa.png",
+    "static/media/product-backlog.5206ecf5.png": "./static/media/product-backlog.5206ecf5.png",
+    "static/media/product-owner.13c267be.png": "./static/media/product-owner.13c267be.png",
+    "static/media/scrum-artifacts.46e090b5.png": "./static/media/scrum-artifacts.46e090b5.png",
+    "static/media/scrum-master.9b8c7699.png": "./static/media/scrum-master.9b8c7699.png",
+    "static/media/scrum-team-right.adf7bb98.png": "./static/media/scrum-team-right.adf7bb98.png",
+    "static/media/scrum-team-wrong.51dd0596.png": "./static/media/scrum-team-wrong.51dd0596.png",
+    "static/media/scrum-team.c16184f7.png": "./static/media/scrum-team.c16184f7.png",
+    "static/media/scrum-values.3d96cc55.png": "./static/media/scrum-values.3d96cc55.png",
+    "static/media/scrum.b2d3963c.png": "./static/media/scrum.b2d3963c.png",
+    "static/media/sprint-backlog.12323399.png": "./static/media/sprint-backlog.12323399.png",
+    "static/media/sprint-planning.8e10f67e.png": "./static/media/sprint-planning.8e10f67e.png",
+    "static/media/sprint.49331948.png": "./static/media/sprint.49331948.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.521de743.js",
+    "static/js/2.ade2dd71.chunk.js",
+    "static/css/main.9bcfc5f0.chunk.css",
+    "static/js/main.17eee270.chunk.js"
+  ]
+}

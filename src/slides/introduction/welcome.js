@@ -8,7 +8,7 @@ import imgIterate from './images/iteraties.png';
 
 export default (
   <>
-    <Slide backgroundColor="#FFF">
+    <Slide backgroundColor="bgIntroduction">
       <FlexBox
         justifyContent="center"
         top="0px"

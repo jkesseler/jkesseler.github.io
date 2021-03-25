@@ -14,4 +14,7 @@ Scrum omarmt verandering en niets staat 100% vast. Dit doen we door grote projec
 
 Door transparantie en snelle iteraties worden de meeste problemen rondom waterval projecten vermeden en, omdat er vaker wordt opgeleverd is er snel feedback waardoor makkelijk bij gestuurd kan worden.
 
-We beginnen met een globaal overzicht, daarna gaan we de diepete in. We sluiten af met wat hands-on oefeningen verzorgd door Ruben en mijzelf.
+De centrale vraag is niet meer *‘loopt ons project nog volgens planning en binnen budget?’*
+De centrale vraag is *‘wat weerhoudt ons ervan om vandaag op te leveren naar onze klanten?’*.
+
+Het resultaat is een product dat alleen die functionaliteit bezit die echt waardevol is, dus beter voldoet aan de behoeften van de klant, goedkoper is om te ontwikkelen, sneller is opgeleverd en van hogere kwaliteit is.

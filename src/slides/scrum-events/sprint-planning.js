@@ -1,7 +1,8 @@
 import React from 'react';
 import { FlexBox, Heading, Slide, Image, Notes } from 'spectacle';
 import SpeakerNotes from '../../components/Notes';
-import notes from './notes/sprint-planning.md';
+import notesRefinement from './notes/backlog-refinement.md';
+import notesPlanning from './notes/sprint-planning.md';
 
 import imgRefinement from './images/backlog-refinement.png';
 import imgPlanning from './images/sprint-planning.png';
@@ -20,7 +21,7 @@ export default (
 
       </FlexBox>
       <Notes>
-        <SpeakerNotes source={notes} />
+        <SpeakerNotes source={notesRefinement} />
       </Notes>
     </Slide>
     <Slide backgroundColor="bgEvents">
@@ -32,7 +33,7 @@ export default (
         <Image src={imgPlanning} />
       </FlexBox>
       <Notes>
-        <SpeakerNotes source={notes} />
+        <SpeakerNotes source={notesPlanning} />
       </Notes>
     </Slide>
   </>

@@ -1,10 +1,10 @@
 # Pilaren van Scrum
-Scrum is een emperische aanpak. Daarme word bedoeld wat we werken op babis van feiten, bewijzen en opgedane ervaring.
-Keuzes zijn niet g
+Scrum is een emperische aanpak. Daarme word bedoeld wat we werken op basis van feiten, bewijzen en opgedane ervaring.
+Er is een verschil tussen 'weten' en het 'denken te weten'
 
 ## Transparantie
 Dit betekend dat we de feiten laten zien zoals ze zijn. Iedereen die betrokken is bij het product, van klant tot directeur
-zijn open en tranparant. We vertrouwen elkaar en zijn moedig genoem om zowel goed als selcht nieuws met elkaar te delen.
+zijn open en tranparant. We vertrouwen elkaar en durven zowel goed als selcht nieuws met elkaar te delen.
 Iedereen werkt samen aan het gemeeschappelijke doel en niemand heeft een verborgen agenda.
 
 

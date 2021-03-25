@@ -1,9 +1,9 @@
 # Omgaan met bugs in Scrum
 
 ## Samengevat
-Kleine bugs met laag risico, zsm oplossen
-Grote bugs met groot risico, spiken, stories aanmaken, inplannen.
-Soms kan een bug zo belangrijk zijn dat de sprint wordt stop gezet. Alleen de PO mag dat doen.
+- Kleine bugs, laag risico: zsm oplossen
+- Grote bugs, hoog risico: spike plannen, stories aanmaken, inplannen.
+- Soms kan een bug zo belangrijk zijn dat de sprint wordt stop gezet. Alleen de PO mag dat doen.
 
 
 ## Grootte van bugs niet bepalend voor niet opgeleverde broncode
@@ -12,14 +12,8 @@ Het is het beste om de bug direct weer aan de huidige of volgende sprint toe te 
 Hoe zit het met bugs die worden aangetroffen in opgeleverde software of in software die het huidige team niet heeft gemaakt?
 
 - Moeten we ze gewoon toevoegen aan de sprint backlog en ons niet bekommeren om de omvang van de bug?
-- Gaan we de bug als een user story behandelen en uren schatten?
-- Moeten we user stories op maat maken en die geheel uitpunten?
+- Gaan we de bug als een user story behandelen en punten schatten?
 - Of moeten we Scrum helemaal niet gebruiken en de bugs gewoon met Kanban oplossen?
-- Als een team Scrum gebruikt en aan user stories werkt, voegt men meestal geen ander team toe alleen maar om bugs te herstellen in Kanban. - Zelfs niet als ze er geld mee kunnen besparen:
-
-Het is niet efficiënt als iemand anders dan de user story developer de bugs oplost.
-Het is niet eenvoudig om een ontwikkelaar te vinden die enthousiast is over het oplossen van bugs (motivatieprobleem).
-Kanban is meer geschikt voor een omgeving waar de workflow soepel loop en het team deskundig is met betrekking tot de software. Anders wordt er te veel geëxperimenteerd en gediscussieerd.
 
 ## Story-points van de gevonden bugs
 Bugs zijn in veel opzichten vergelijkbaar met een user story. Aangezien de huidige functionaliteit niet goed is kunnen we een bug ook beschouwen als een story om de juiste functionaliteit te implementeren.

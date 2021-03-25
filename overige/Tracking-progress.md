@@ -1,1 +1,0 @@
-# Story points, planning poker the burndown chart

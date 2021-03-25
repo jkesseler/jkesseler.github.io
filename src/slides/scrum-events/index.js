@@ -1,3 +1,4 @@
+export { default as Title } from './title';
 export { default as Sprints } from './sprints';
 export { default as DailyScrum } from './daily-scrum';
 export { default as SprintPlanning } from './sprint-planning';

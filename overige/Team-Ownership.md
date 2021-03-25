@@ -1,1 +1,0 @@
-http://www.agilesocks.com/team-ownership-done/
